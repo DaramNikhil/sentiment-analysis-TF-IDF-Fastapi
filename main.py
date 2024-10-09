@@ -7,11 +7,9 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import re
 from sklearn.metrics import accuracy_score
-from sklearn.metrics import accuracy_score
 from textblob import TextBlob
 from nltk.corpus import wordnet, stopwords
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.preprocessing import LabelEncoder
 import nltk
 nltk.download('punkt')
 nltk.download('averaged_perceptron_tagger')
