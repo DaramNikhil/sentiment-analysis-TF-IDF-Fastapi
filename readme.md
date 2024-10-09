@@ -16,7 +16,7 @@ To install the Twitter Sentiment Analysis TF-IDF follow these steps:
 
 ## **API Endpoints**
 
-### POST `/predict`
+## POST `/predict`
 
 **Request Body**:
 
